@@ -281,11 +281,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -357,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -394,7 +389,52 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 87
 }
